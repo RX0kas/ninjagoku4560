@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ninjagoku4560
 - 👀 I’m interested by the developement
-- 🌱 I’m currently learning python and luau.
+- 🌱 I’m currently know luau and python
 - 🇫🇷 I'm French.
